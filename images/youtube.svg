@@ -1,7 +1,5 @@
-<svg id="youtube" viewbox="0 0 240 240" xmlns="http://www.w3.org/2000/svg">
-    <rect width="100px" height="50" rx="50" x="120">
-
-
-
+<svg id="youtube" viewbox="0 0 240 240" fill="red" xmlns="http://www.w3.org/2000/svg">
+    <rect width="100px" height="50" rx="50" x="120" fill="red">
+    <polygon points=" 40,20 40,40 60,30 40,20" fill="white" >
 </svg>
 
