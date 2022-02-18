@@ -1,5 +1,8 @@
-<svg id="youtube" viewbox="0 0 240 240" fill="red" xmlns="http://www.w3.org/2000/svg">
+/* does not work */
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" x="0" y="0">
+    <symbol id="youtube" viewbox="0 0 240 240">
     <rect width="100px" height="50" rx="50" x="120" fill="red">
     <polygon points=" 40,20 40,40 60,30 40,20" fill="white" >
+    </symbol>
 </svg>
 
